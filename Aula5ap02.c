@@ -1,5 +1,4 @@
 /*
- Created by Bruno Siqueira on 14/09/2018.
  Aula 5 - Estruturas de Dados Homogêneas Unidimensionais – Vetores e Strings
  2- Elabore um programa para ler as notas dos 10 alunos da turma, calcule a média da turma, e calcule
  também quantos alunos tiveram notas abaixo da média, e quantos tiveram notas acima da média.
